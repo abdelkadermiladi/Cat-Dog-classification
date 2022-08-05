@@ -12,4 +12,7 @@ Using the famous Cats vs Dogs dataset to train a model to classify images of dog
 train the model 
 
 Plot training and validation accuracy per epoch
+
 Plot training and validation loss per epoch
+
+![Uploading sssssssssssssssssssss.gif…]()
